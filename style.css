@@ -1,0 +1,25 @@
+.centr{
+    text-align: center;
+}
+a{
+    color:rgb(9, 172, 159);
+}
+a:hover{
+    color:rgb(4, 122, 113);
+}
+body{
+    background-color: rgb(4, 37, 113);
+    background-image: url("фон.jpg");
+}
+.zag{
+    color:rgb(177, 215, 205);
+}
+hr{
+    background-color:rgb(114, 242, 229);
+}
+.pred{
+    color:white;
+}
+.text{
+    color:rgb(215, 217, 232)
+}
